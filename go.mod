@@ -7,7 +7,7 @@ require (
 	github.com/mattn/go-tty v0.0.4
 	github.com/mitchellh/mapstructure v1.4.1
 	github.com/rekby/mbr v0.0.0-20151216101307-8c28b6465703
-	github.com/ulikunitz/xz v0.5.10
+	github.com/ulikunitz/xz v0.5.14
 	github.com/zclconf/go-cty v1.10.0
 	gopkg.in/h2non/filetype.v1 v1.0.5
 )
